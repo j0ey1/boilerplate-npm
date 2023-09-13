@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "github.com/j0ey1/boilerplate-npm/blob/main/package.json"
+		"url": "github.com/j0ey1/boilerplate-npm"
 	}
 }
